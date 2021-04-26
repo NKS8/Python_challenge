@@ -9,3 +9,5 @@ Scripted by Python:
           Resources: budget_data.csv file in it.  
       
       I include screenshot in here as well. 
+      
+![Screenshot (6)](https://user-images.githubusercontent.com/67448948/116027781-bf63ff80-a623-11eb-91b8-84945c315eee.png)
