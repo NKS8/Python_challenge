@@ -8,8 +8,14 @@ Scripted by Python:
           PyBank_Challenge: main.py and output text file financial_analysis.txt files are in it.
           Resources: budget_data.csv file in it.  
       
-      I am include screenshot as reference as well.  
-      
+      I am include screenshot as reference as well.
+      Screenshot below includes: 
+        1. Instruction and output
+        2. Source code
+        3. Output in the terminal
+        4. budget_data.csv file
+        5. financial_output.txt (output is written and open show in VS code)
+          
 ![Screenshot (9)](https://user-images.githubusercontent.com/67448948/116031856-9005c080-a62c-11eb-8d09-e9f458445b55.png)
 
  #### Part2:
@@ -28,10 +34,11 @@ Scripted by Python:
    #### Part2 PyPoll_challenge run on given large data file election_data.csv 
    
    I am including below screen shot as refernce how my main.py run on given large election-data.csv. Screenshot includes:
-    o instruction and expected output
-    o main.py/source code
-    o output in terminal
-    o election_dafe.csv (ending of it)
-    o Election_result.txt  (output write file's output)
+     Screenshot below includes: 
+        1. Instruction and output
+        2. Source code
+        3. Output in the terminal
+        4. election_data.csv file
+        5. Election_result.txt (output is written and open show in VS code)
  ![Screenshot (8)](https://user-images.githubusercontent.com/67448948/116030012-9bef8380-a628-11eb-9aa0-183adc1b9dce.png)
 
