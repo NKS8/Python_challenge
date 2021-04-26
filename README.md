@@ -21,3 +21,4 @@ Scripted by Python:
           Resources: election_data.csv and election data1.csv files are in it.  
       
       I am include screenshot as reference as well.  
+ ![Screenshot (4)](https://user-images.githubusercontent.com/67448948/116028614-8462cb80-a625-11eb-8206-606c13aac2f4.png)
