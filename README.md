@@ -28,5 +28,5 @@ Scripted by Python:
    #### Part2 PyPoll_challenge run on given large data file election_data.csv 
    
    I am including screen shot as refernce as well. 
-   ![Screenshot (5)](https://user-images.githubusercontent.com/67448948/116029014-5fbb2380-a626-11eb-86e0-42d35c5ad85c.png)
+ ![Screenshot (8)](https://user-images.githubusercontent.com/67448948/116030012-9bef8380-a628-11eb-9aa0-183adc1b9dce.png)
 
