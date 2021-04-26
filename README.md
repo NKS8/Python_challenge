@@ -10,7 +10,7 @@ Scripted by Python:
       
       I am include screenshot as reference as well.  
       
-![Screenshot (6)](https://user-images.githubusercontent.com/67448948/116027781-bf63ff80-a623-11eb-91b8-84945c315eee.png) 
+![Screenshot (9)](https://user-images.githubusercontent.com/67448948/116031856-9005c080-a62c-11eb-8d09-e9f458445b55.png)
 
  #### Part2:
       Part2 is in Folder named PyPoll. 
