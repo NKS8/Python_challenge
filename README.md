@@ -15,7 +15,7 @@ Scripted by Python:
  #### Part2:
       Part2 is in Folder named PyPoll. 
       PyPoll Folder intended to have 2 sub Folders, but my Resources Folder that holds election_data.csv  did not uploaded into github;
-      therefore, I made assumptiion that data file was extremely large:
+      therefore, I made assumption that data file was extremely large:
           (Directory intended organization is shown below)
           PyPoll_challenge: main.py and output text file election_result.txt files are in it.
           Resources: election_data.csv and election data1.csv files are in it.  
