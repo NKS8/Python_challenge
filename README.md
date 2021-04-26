@@ -21,4 +21,6 @@ Scripted by Python:
           Resources: election_data.csv and election data1.csv files are in it.  
       
       I am include screenshot as reference as well.  
+    ### Part2 Folder 
+    PyPoll is election data was very large to keep runnig test, therfore, I creaded election_data1.csv file hasa only 20 rows inlcuding header; therefore, data is only 19 rows and it was small and convenient to run test. So I included the screen shot for test run as well. 
  ![Screenshot (4)](https://user-images.githubusercontent.com/67448948/116028614-8462cb80-a625-11eb-8206-606c13aac2f4.png)
