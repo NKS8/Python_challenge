@@ -2,7 +2,7 @@
 ## Data Analysis Project.
 Scripted by Python:
  ### This project has 2 parts. 
-  Part1:
+  #### Part1:
       Par1 is in Folder named PyBank. 
       PyBank has two sub Folders:
           PyBank_Challenge: main.py and output text file financial_analysis.txt files in it.
