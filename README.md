@@ -10,7 +10,7 @@ Scripted by Python:
       
       I am include screenshot as reference as well.
       Screenshot below includes: 
-        1. Instruction and output
+        1. Instruction and given output
         2. Source code
         3. Output in the terminal
         4. budget_data.csv file
