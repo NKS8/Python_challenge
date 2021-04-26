@@ -40,5 +40,7 @@ Scripted by Python:
         3. Output in the terminal
         4. election_data.csv file
         5. Election_result.txt (output is written and open show in VS code)
+        
  ![Screenshot (8)](https://user-images.githubusercontent.com/67448948/116030012-9bef8380-a628-11eb-9aa0-183adc1b9dce.png)
+ 
 
