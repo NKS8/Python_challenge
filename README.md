@@ -1,5 +1,5 @@
 # Python_challenge
-## Data Analysis on PyBank and PyPoll
+## Data Analysis on PyBank and PyPoll (PyPoll-> Resources in it (!!!) election_data1.cvs file is reduced data for testing purpose)
 Scripted by Python:
  ### This project has 2 parts. 
   #### Part1:
