@@ -27,6 +27,11 @@ Scripted by Python:
  
    #### Part2 PyPoll_challenge run on given large data file election_data.csv 
    
-   I am including screen shot as refernce as well. 
+   I am including below screen shot as refernce how my main.py run on given large election-data.csv. Screenshot includes:
+    o instruction and expected output
+    o main.py/source code
+    o output in terminal
+    o election_dafe.csv (ending of it)
+    o Election_result.txt  (output write file's output)
  ![Screenshot (8)](https://user-images.githubusercontent.com/67448948/116030012-9bef8380-a628-11eb-9aa0-183adc1b9dce.png)
 
