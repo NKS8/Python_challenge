@@ -8,7 +8,7 @@ Scripted by Python:
           PyBank_Challenge: main.py and output text file financial_analysis.txt files are in it.
           Resources: budget_data.csv file in it.  
       
-      I am include screenshot as reference as well.
+      I am including screenshot as a reference.
       Screenshot below includes: 
         1. Instruction and given output
         2. Source code
@@ -33,7 +33,7 @@ Scripted by Python:
  
    #### Part2 PyPoll_challenge run on given large data file election_data.csv 
    
-   I am including below screen shot as refernce how my main.py run on given large election-data.csv. Screenshot includes:
+   I am including below screen shot as a refernce how my main.py run on given large election-data.csv. Screenshot includes:
      Screenshot below includes: 
         1. Instruction and output
         2. Source code
