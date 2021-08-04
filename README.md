@@ -28,12 +28,12 @@ Scripted by Python:
       
       I am including screenshot below as a reference  on small test file how my main.py run.  
     ### Part2 Folder 
-    PyPoll is election data was very large to keep runnig test, therfore, I creaded election_data1.csv file has only 20 rows inlcuding header; therefore, data is only 19 rows and it was small and convenient enough to run test. So I included the screen shot for test run as well. 
+    PyPoll is election data was very large to keep runnig test, so I created election_data1.csv file that has only 20 rows inlcuding header; therefore, data is only 19 rows, and it was small and convenient enough to keep running tests. So I included the screen shot for test run as well. 
  ![Screenshot (4)](https://user-images.githubusercontent.com/67448948/116028614-8462cb80-a625-11eb-8206-606c13aac2f4.png)
  
    #### Part2 PyPoll_challenge run on given large data file election_data.csv 
    
-   I am including below screen shot as a refernce how my main.py run on given large election-data.csv. Screenshot includes:
+   I am including below screen shot as a reference how my main.py run on given large election-data.csv. Screenshot includes:
      Screenshot below includes: 
         1. Instruction and output
         2. Source code
