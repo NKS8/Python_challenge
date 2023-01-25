@@ -1,5 +1,5 @@
 # Python_challenge
-## Data Analysis on PyBank and PyPoll (PyPoll-> Resources in it (!) election_data1.cvs file is reduced data for reinning test. original large file coul not uploaded into github. (!!!)
+## Data Analysis on PyBank and PyPoll (PyPoll-> Resources in it (!) election_data1.cvs file is reduced data for reinning test. The original large file could not uploaded into github. (!!!)
 Scripted by Python:
  ### This project has 2 parts. 
   #### Part1:
